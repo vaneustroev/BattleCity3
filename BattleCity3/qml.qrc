@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainForm.ui.qml</file>
+        <file>Button.qml</file>
+        <file>ScreenFirst.qml</file>
+        <file>ScreenSecond.qml</file>
+        <file>ScreenThird.qml</file>
+        <file>MenuBar2.qml</file>
+        <file>BattleCityLevel1.jpg</file>
+        <file>BattleCityLevel2.jpg</file>
+        <file>BattleCityLevel3.jpg</file>
+        <file>myTankDown.jpg</file>
+        <file>myTankLeft.jpg</file>
+        <file>myTankRight.jpg</file>
+        <file>myTankUp.jpg</file>
+        <file>TankDown.jpg</file>
+        <file>TankLeft.jpg</file>
+        <file>TankRight.jpg</file>
+        <file>TankUp.jpg</file>
+        <file>bulletDown.jpg</file>
+        <file>bulletLeft.jpg</file>
+        <file>bulletRight.jpg</file>
+        <file>bulletUp.jpg</file>
+        <file>ItemBullet.qml</file>
+        <file>ItemPanzer.qml</file>
+        <file>ItemRival.qml</file>
+        <file>jsbullet.js</file>
+        <file>jspanzer.js</file>
+        <file>jsrival.js</file>
+        <file>jsrivalbullet.js</file>
+    </qresource>
+</RCC>
